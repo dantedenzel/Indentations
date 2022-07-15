@@ -4,6 +4,12 @@
     justify-content: center;
 }
 
+h1 {
+    font-family: fantasy;
+    font-size: 3em;
+    
+}
+
 img {
     width: 450px;
     height: 300px;
